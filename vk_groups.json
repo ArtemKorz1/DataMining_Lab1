@@ -1,0 +1,757 @@
+[
+    {
+        "id": 24092182,
+        "name": "КЕКС",
+        "screen_name": "cakes"
+    },
+    {
+        "id": 40202469,
+        "name": "Пермский государственный университет (ПГНИУ)",
+        "screen_name": "permuniversity"
+    },
+    {
+        "id": 132874606,
+        "name": "Черная риторика",
+        "screen_name": "black.rhetoric"
+    },
+    {
+        "id": 168131127,
+        "name": "Дуй speak english?",
+        "screen_name": "ienglishman"
+    },
+    {
+        "id": 66814271,
+        "name": "4ch",
+        "screen_name": "4chnn"
+    },
+    {
+        "id": 143031608,
+        "name": "научные мемы",
+        "screen_name": "q_qvazar"
+    },
+    {
+        "id": 154168174,
+        "name": "причины моего психического расстройства",
+        "screen_name": "mentaldisordeer"
+    },
+    {
+        "id": 172986969,
+        "name": "Не переплачивай",
+        "screen_name": "ne_pereplachivai"
+    },
+    {
+        "id": 144217521,
+        "name": "Клан  \"Immortal Empire - World Control\" [I-EMP]",
+        "screen_name": "i_emp"
+    },
+    {
+        "id": 163452344,
+        "name": "околоинтеллектуальные мемы",
+        "screen_name": "intellectualmems"
+    },
+    {
+        "id": 149966910,
+        "name": "Оказывается...",
+        "screen_name": "smartez"
+    },
+    {
+        "id": 210153269,
+        "name": "История которую мы заслужили",
+        "screen_name": "stor1esforeveryday"
+    },
+    {
+        "id": 148559209,
+        "name": "Гулька",
+        "screen_name": "nichoneponimayu"
+    },
+    {
+        "id": 114086029,
+        "name": "контур гуся",
+        "screen_name": "konturgusya"
+    },
+    {
+        "id": 159146575,
+        "name": "Мемуары ценителей научных мемов",
+        "screen_name": "sciencemem"
+    },
+    {
+        "id": 129108151,
+        "name": "Кто круче ?! | GIF",
+        "screen_name": "crut0"
+    },
+    {
+        "id": 25089415,
+        "name": "1001 Мем",
+        "screen_name": "mem1001"
+    },
+    {
+        "id": 95128240,
+        "name": "Смертельный юмор",
+        "screen_name": "smehizhizn"
+    },
+    {
+        "id": 26147450,
+        "name": "Школа? Не, не слышали",
+        "screen_name": "onesc"
+    },
+    {
+        "id": 74889711,
+        "name": "Убойные приколы",
+        "screen_name": "benpo"
+    },
+    {
+        "id": 71239327,
+        "name": "Улётный Юмор",
+        "screen_name": "numos"
+    },
+    {
+        "id": 160909412,
+        "name": "BOOM",
+        "screen_name": "boom_gifka"
+    },
+    {
+        "id": 103027469,
+        "name": "Наука и Техника",
+        "screen_name": "nayka"
+    },
+    {
+        "id": 41437811,
+        "name": "МХК",
+        "screen_name": "mhk"
+    },
+    {
+        "id": 171036013,
+        "name": "Math Content",
+        "screen_name": "mathcontent"
+    },
+    {
+        "id": 139740824,
+        "name": "Бот Лена",
+        "screen_name": "bot_lena"
+    },
+    {
+        "id": 128170344,
+        "name": "Я хочу стать программистом",
+        "screen_name": "iwannabeprogrammer"
+    },
+    {
+        "id": 155590170,
+        "name": "ОРУ СЭР",
+        "screen_name": "medieval_or"
+    },
+    {
+        "id": 165838780,
+        "name": "Хахаски",
+        "screen_name": "haha_ski"
+    },
+    {
+        "id": 171296758,
+        "name": "СПРАВЕДЛИВЫЕ МЕМЫ ПРО МАТЕШУ",
+        "screen_name": "publicepsilon777"
+    },
+    {
+        "id": 23064236,
+        "name": "Четкие Приколы",
+        "screen_name": "ilikes"
+    },
+    {
+        "id": 181239671,
+        "name": "Боги Маркетинга",
+        "screen_name": "bogi_market"
+    },
+    {
+        "id": 25554967,
+        "name": "СМС приколы",
+        "screen_name": "smsin"
+    },
+    {
+        "id": 22741624,
+        "name": "Улетные приколы",
+        "screen_name": "humour.page"
+    },
+    {
+        "id": 63012929,
+        "name": "Сарказм",
+        "screen_name": "potez"
+    },
+    {
+        "id": 171154488,
+        "name": "Ору с ленты новостей",
+        "screen_name": "oryslenti"
+    },
+    {
+        "id": 131247378,
+        "name": "Лаборатория Науки",
+        "screen_name": "labscience"
+    },
+    {
+        "id": 94255146,
+        "name": "Реально смешно",
+        "screen_name": "onovoe"
+    },
+    {
+        "id": 34491673,
+        "name": "Убойные приколы",
+        "screen_name": "black_humor"
+    },
+    {
+        "id": 30179569,
+        "name": "Убойный юмор",
+        "screen_name": "fucking_humor"
+    },
+    {
+        "id": 149276083,
+        "name": "Исторический ГУЛАГ",
+        "screen_name": "hist_gulag"
+    },
+    {
+        "id": 175744287,
+        "name": "Такое себе образование",
+        "screen_name": "obrazovan22"
+    },
+    {
+        "id": 57846937,
+        "name": "MDK",
+        "screen_name": "mudakoff"
+    },
+    {
+        "id": 149094324,
+        "name": "Комментатор от Бога",
+        "screen_name": "komment.broo"
+    },
+    {
+        "id": 166127239,
+        "name": "Зачем это гуглили?",
+        "screen_name": "gyygle"
+    },
+    {
+        "id": 40800148,
+        "name": "Черный юмор",
+        "screen_name": "chozah"
+    },
+    {
+        "id": 78273068,
+        "name": "Интегральная вселенная",
+        "screen_name": "int_universe"
+    },
+    {
+        "id": 12382740,
+        "name": "ЁП",
+        "screen_name": "fuck_humor"
+    },
+    {
+        "id": 23243883,
+        "name": "Действительно смешно",
+        "screen_name": "topds"
+    },
+    {
+        "id": 24390680,
+        "name": "Грубо? Простите.",
+        "screen_name": "grybo"
+    },
+    {
+        "id": 26419239,
+        "name": "Смейся до слёз :D",
+        "screen_name": "ifun"
+    },
+    {
+        "id": 28261265,
+        "name": "FUN",
+        "screen_name": "sarkazmcorp"
+    },
+    {
+        "id": 29196806,
+        "name": "ГАРАЖ",
+        "screen_name": "auto.garage"
+    },
+    {
+        "id": 29435908,
+        "name": "Like - Приколы",
+        "screen_name": "flike"
+    },
+    {
+        "id": 31480508,
+        "name": "Пикабу",
+        "screen_name": "pikabu"
+    },
+    {
+        "id": 33621085,
+        "name": "Котизм",
+        "screen_name": "catism"
+    },
+    {
+        "id": 34617436,
+        "name": "БЕЗУМНЫЙ Геймер",
+        "screen_name": "tipak_games"
+    },
+    {
+        "id": 35809584,
+        "name": "Оружие | Пистолет | Наука и техника",
+        "screen_name": "tech.science"
+    },
+    {
+        "id": 37334713,
+        "name": "IGRI7.RU",
+        "screen_name": "igri7"
+    },
+    {
+        "id": 40036677,
+        "name": "Империум",
+        "screen_name": "imperpub"
+    },
+    {
+        "id": 40567146,
+        "name": "Лайфхак",
+        "screen_name": "lhack"
+    },
+    {
+        "id": 41726166,
+        "name": "QCYBER - игровые аксессуары",
+        "screen_name": "qcyber"
+    },
+    {
+        "id": 41807730,
+        "name": "ОСТРОУМНЫЕ",
+        "screen_name": "ostroym"
+    },
+    {
+        "id": 42939846,
+        "name": "Билли | WoT",
+        "screen_name": "billy_wot"
+    },
+    {
+        "id": 43083161,
+        "name": "Тесла каждый день",
+        "screen_name": "tesla_every_day"
+    },
+    {
+        "id": 44717772,
+        "name": "CatOfFay",
+        "screen_name": "catoffaycom"
+    },
+    {
+        "id": 45441631,
+        "name": "ПРИКОЛЫ | Смеяка",
+        "screen_name": "smeyaka"
+    },
+    {
+        "id": 45745333,
+        "name": "4ch",
+        "screen_name": "4ch"
+    },
+    {
+        "id": 46038605,
+        "name": "Спортивный клуб «Универ» ПГНИУ",
+        "screen_name": "scuniver"
+    },
+    {
+        "id": 47252548,
+        "name": "GIFанутые",
+        "screen_name": "killtimepub"
+    },
+    {
+        "id": 57623570,
+        "name": "Федерация Юмора",
+        "screen_name": "federation_humor"
+    },
+    {
+        "id": 65047210,
+        "name": "министерство мемов",
+        "screen_name": "fun.gifs"
+    },
+    {
+        "id": 68141127,
+        "name": "Science",
+        "screen_name": "wikiscience"
+    },
+    {
+        "id": 68420747,
+        "name": "Armored Warfare",
+        "screen_name": "armoredwarfare"
+    },
+    {
+        "id": 72605916,
+        "name": "БИРЖА",
+        "screen_name": "stockmem"
+    },
+    {
+        "id": 75338985,
+        "name": "Я фотошоплю как бог",
+        "screen_name": "ps_kak_kretin"
+    },
+    {
+        "id": 76746437,
+        "name": "Подслушано у программиста",
+        "screen_name": "secrets_of_programmist"
+    },
+    {
+        "id": 77963997,
+        "name": "Долбани меня калиткой",
+        "screen_name": "kalitka18"
+    },
+    {
+        "id": 80091188,
+        "name": "Интеграл",
+        "screen_name": "integralmmf"
+    },
+    {
+        "id": 85110597,
+        "name": "НФ",
+        "screen_name": "wowfakty"
+    },
+    {
+        "id": 89562865,
+        "name": "Ё-медиа | ПГНИУ",
+        "screen_name": "your_media"
+    },
+    {
+        "id": 92581206,
+        "name": "Злой Чаплин",
+        "screen_name": "zlouchaplin"
+    },
+    {
+        "id": 99295206,
+        "name": "Исторические реконструкции (WoT)",
+        "screen_name": "kartoshkahib"
+    },
+    {
+        "id": 101149448,
+        "name": "И так сойдет...",
+        "screen_name": "u_tak_soudet"
+    },
+    {
+        "id": 103695969,
+        "name": "ОБО ВСЁМ НА СВЕТЕ | Наука - Факты",
+        "screen_name": "club103695969"
+    },
+    {
+        "id": 111359826,
+        "name": "Комната Смеха",
+        "screen_name": "positive_xi"
+    },
+    {
+        "id": 124156921,
+        "name": "Игроблог",
+        "screen_name": "igrovoi__blogg"
+    },
+    {
+        "id": 129742800,
+        "name": "Работа Новосибирск вакансии",
+        "screen_name": "earn_in_novosib"
+    },
+    {
+        "id": 130719945,
+        "name": "В ПРЯМОМ СМЫСЛЕ",
+        "screen_name": "bukvalno_pub"
+    },
+    {
+        "id": 131460484,
+        "name": "Бустер",
+        "screen_name": "lilbuster"
+    },
+    {
+        "id": 132463798,
+        "name": "ЧП Новочеркасск",
+        "screen_name": "chp_novocherkassk"
+    },
+    {
+        "id": 132729641,
+        "name": "Prank Time",
+        "screen_name": "prank_t1me"
+    },
+    {
+        "id": 133668394,
+        "name": "Заброшенное",
+        "screen_name": "zabroshenoevk"
+    },
+    {
+        "id": 135209264,
+        "name": "Бот Максим",
+        "screen_name": "bot_maxim"
+    },
+    {
+        "id": 136020824,
+        "name": "EMPIRE",
+        "screen_name": "empirezine"
+    },
+    {
+        "id": 138011123,
+        "name": "Fortnite",
+        "screen_name": "fortnite"
+    },
+    {
+        "id": 138544652,
+        "name": "Психологи шутят",
+        "screen_name": "psywitz"
+    },
+    {
+        "id": 138880351,
+        "name": "Безумные приколы",
+        "screen_name": "insaneumor"
+    },
+    {
+        "id": 140936727,
+        "name": "Funny Day",
+        "screen_name": "lelgif"
+    },
+    {
+        "id": 141444818,
+        "name": "Among Us (RU community)",
+        "screen_name": "amngs"
+    },
+    {
+        "id": 143277208,
+        "name": "Так или Так?",
+        "screen_name": "takilitak"
+    },
+    {
+        "id": 145500918,
+        "name": "JokesHub",
+        "screen_name": "jokeshubfun"
+    },
+    {
+        "id": 145972106,
+        "name": "Мужской корень)))",
+        "screen_name": "menskoren"
+    },
+    {
+        "id": 147697186,
+        "name": "Победители по жизни",
+        "screen_name": "pobediteli_v_jizni"
+    },
+    {
+        "id": 147710263,
+        "name": "Они тупые?",
+        "screen_name": "onitupye"
+    },
+    {
+        "id": 148211806,
+        "name": "PUBG: BATTLEGROUNDS",
+        "screen_name": "pubg"
+    },
+    {
+        "id": 148435968,
+        "name": "Бот Статист Warface | Статистика игрока/клана",
+        "screen_name": "bot_statist"
+    },
+    {
+        "id": 149500863,
+        "name": "А ты знал?",
+        "screen_name": "znall"
+    },
+    {
+        "id": 150042235,
+        "name": "geniuS",
+        "screen_name": "geniuswtf"
+    },
+    {
+        "id": 150331642,
+        "name": "CSBSVNNQ",
+        "screen_name": "csbsvnnq_channel"
+    },
+    {
+        "id": 151229592,
+        "name": "НЕтипичные факты",
+        "screen_name": "nfacty"
+    },
+    {
+        "id": 151824283,
+        "name": "На самом деле",
+        "screen_name": "club151824283"
+    },
+    {
+        "id": 152191544,
+        "name": "FRESH",
+        "screen_name": "fresh_gifs"
+    },
+    {
+        "id": 152240036,
+        "name": "Замедленная съемка",
+        "screen_name": "zamedlennaya"
+    },
+    {
+        "id": 155591842,
+        "name": "Мысли Буги",
+        "screen_name": "bugagameswf"
+    },
+    {
+        "id": 156197485,
+        "name": "Бог фотошопа",
+        "screen_name": "bog_memes"
+    },
+    {
+        "id": 156882121,
+        "name": "Смекалочка | GIF",
+        "screen_name": "xalife"
+    },
+    {
+        "id": 156904084,
+        "name": "Как Челентано",
+        "screen_name": "celentanokak"
+    },
+    {
+        "id": 156942049,
+        "name": "MEN'S MEMES",
+        "screen_name": "men.memes"
+    },
+    {
+        "id": 157142840,
+        "name": "Факты Дегенерата",
+        "screen_name": "club157142840"
+    },
+    {
+        "id": 158473352,
+        "name": "Скотч",
+        "screen_name": "my_boloto"
+    },
+    {
+        "id": 158883828,
+        "name": "ФИАСКО",
+        "screen_name": "gif_fiasko"
+    },
+    {
+        "id": 163289095,
+        "name": "Кладбище тупых диалогов",
+        "screen_name": "ripdialog"
+    },
+    {
+        "id": 164517505,
+        "name": "ты чево блин",
+        "screen_name": "can1kms"
+    },
+    {
+        "id": 164684562,
+        "name": "это всё Т9!",
+        "screen_name": "eto_t9"
+    },
+    {
+        "id": 165394017,
+        "name": "ну ты это не обижайся.",
+        "screen_name": "trvmplde"
+    },
+    {
+        "id": 167081580,
+        "name": "Я залип..",
+        "screen_name": "iskleil"
+    },
+    {
+        "id": 169835192,
+        "name": "БРИТИШ ЮМОР",
+        "screen_name": "pretty_british"
+    },
+    {
+        "id": 170741638,
+        "name": "Аббревиатура 21 века",
+        "screen_name": "ab21v"
+    },
+    {
+        "id": 171938396,
+        "name": "Учим английский язык",
+        "screen_name": "teachenglishlanguage"
+    },
+    {
+        "id": 172222275,
+        "name": "Пустые мемы | Шаблоны мемов",
+        "screen_name": "club172222275"
+    },
+    {
+        "id": 173572385,
+        "name": "Плюсы и Минусы Вещей",
+        "screen_name": "plusminus_items"
+    },
+    {
+        "id": 174205126,
+        "name": "Сколько пар сегодня посетил Никита?",
+        "screen_name": "nikita_na_parax"
+    },
+    {
+        "id": 178402389,
+        "name": "Странный тепловизор и рентген",
+        "screen_name": "stranniyteplovizor"
+    },
+    {
+        "id": 178517126,
+        "name": "Ачивки из жизни",
+        "screen_name": "achivki"
+    },
+    {
+        "id": 179091495,
+        "name": "Фух, не отправилось!",
+        "screen_name": "prokonalo_66"
+    },
+    {
+        "id": 179997490,
+        "name": "Чёртов гений",
+        "screen_name": "damngenius"
+    },
+    {
+        "id": 181092826,
+        "name": "Нескучная жизнь Арнольда",
+        "screen_name": "club181092826"
+    },
+    {
+        "id": 182126526,
+        "name": "постирония для ленивых",
+        "screen_name": "imtolazy"
+    },
+    {
+        "id": 185445007,
+        "name": "Работа Вахта",
+        "screen_name": "raboty_vahta"
+    },
+    {
+        "id": 185736016,
+        "name": "Загуглено",
+        "screen_name": "zagooogleno"
+    },
+    {
+        "id": 187053043,
+        "name": "Бесполезные вещи",
+        "screen_name": "club187053043"
+    },
+    {
+        "id": 187263168,
+        "name": "ачё)",
+        "screen_name": "achexd"
+    },
+    {
+        "id": 187570478,
+        "name": "Игровые Memes",
+        "screen_name": "stupidrepl"
+    },
+    {
+        "id": 188221973,
+        "name": "Сравнения",
+        "screen_name": "srav_memes"
+    },
+    {
+        "id": 188537135,
+        "name": "Nigga memes",
+        "screen_name": "club188537135"
+    },
+    {
+        "id": 191870664,
+        "name": "Ты что, гений?",
+        "screen_name": "smsse"
+    },
+    {
+        "id": 198956622,
+        "name": "Игропикчи",
+        "screen_name": "usamong"
+    },
+    {
+        "id": 201067222,
+        "name": "Почувствуй Игры",
+        "screen_name": "thedifferences"
+    },
+    {
+        "id": 203419528,
+        "name": "Крысячьи пикчи",
+        "screen_name": "kris_pics"
+    },
+    {
+        "id": 204789524,
+        "name": "Better call Katie | English language",
+        "screen_name": "bettercallkatie"
+    }
+]
