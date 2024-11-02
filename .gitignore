@@ -1,6 +1,7 @@
 # created by virtualenv automatically
-Lib
-Scripts
-temp_git.json
-temp_vk.json
+.idea/
+Lib/
+Scripts/
+*temp*
+__pycache__
 
