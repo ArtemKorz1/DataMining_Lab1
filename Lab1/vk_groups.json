@@ -1,8 +1,8 @@
 [
     {
-        "id": 24092182,
-        "name": "КЕКС",
-        "screen_name": "cakes"
+        "id": 132874606,
+        "name": "Черная риторика",
+        "screen_name": "black.rhetoric"
     },
     {
         "id": 40202469,
@@ -10,19 +10,9 @@
         "screen_name": "permuniversity"
     },
     {
-        "id": 132874606,
-        "name": "Черная риторика",
-        "screen_name": "black.rhetoric"
-    },
-    {
         "id": 168131127,
         "name": "Дуй speak english?",
         "screen_name": "ienglishman"
-    },
-    {
-        "id": 66814271,
-        "name": "4ch",
-        "screen_name": "4chnn"
     },
     {
         "id": 143031608,
@@ -57,7 +47,7 @@
     {
         "id": 210153269,
         "name": "История которую мы заслужили",
-        "screen_name": "stor1esforeveryday"
+        "screen_name": "native.history"
     },
     {
         "id": 148559209,
@@ -83,11 +73,6 @@
         "id": 25089415,
         "name": "1001 Мем",
         "screen_name": "mem1001"
-    },
-    {
-        "id": 95128240,
-        "name": "Смертельный юмор",
-        "screen_name": "smehizhizn"
     },
     {
         "id": 26147450,
@@ -147,7 +132,7 @@
     {
         "id": 171296758,
         "name": "СПРАВЕДЛИВЫЕ МЕМЫ ПРО МАТЕШУ",
-        "screen_name": "publicepsilon777"
+        "screen_name": "publicepsilon"
     },
     {
         "id": 23064236,
@@ -215,16 +200,6 @@
         "screen_name": "mudakoff"
     },
     {
-        "id": 149094324,
-        "name": "Комментатор от Бога",
-        "screen_name": "komment.broo"
-    },
-    {
-        "id": 166127239,
-        "name": "Зачем это гуглили?",
-        "screen_name": "gyygle"
-    },
-    {
         "id": 40800148,
         "name": "Черный юмор",
         "screen_name": "chozah"
@@ -233,6 +208,31 @@
         "id": 78273068,
         "name": "Интегральная вселенная",
         "screen_name": "int_universe"
+    },
+    {
+        "id": 35809584,
+        "name": "Оружие | Пистолет | Наука и техника",
+        "screen_name": "tech.science"
+    },
+    {
+        "id": 45441631,
+        "name": "ПРИКОЛЫ | Смеяка",
+        "screen_name": "smeyaka"
+    },
+    {
+        "id": 76746437,
+        "name": "Подслушано у программиста",
+        "screen_name": "secrets_of_programmist"
+    },
+    {
+        "id": 131460484,
+        "name": "Бустер",
+        "screen_name": "lilbuster"
+    },
+    {
+        "id": 26419239,
+        "name": "Смейся до слёз :D",
+        "screen_name": "ifun"
     },
     {
         "id": 12382740,
@@ -248,11 +248,6 @@
         "id": 24390680,
         "name": "Грубо? Простите.",
         "screen_name": "grybo"
-    },
-    {
-        "id": 26419239,
-        "name": "Смейся до слёз :D",
-        "screen_name": "ifun"
     },
     {
         "id": 28261265,
@@ -283,11 +278,6 @@
         "id": 34617436,
         "name": "БЕЗУМНЫЙ Геймер",
         "screen_name": "tipak_games"
-    },
-    {
-        "id": 35809584,
-        "name": "Оружие | Пистолет | Наука и техника",
-        "screen_name": "tech.science"
     },
     {
         "id": 37334713,
@@ -328,11 +318,6 @@
         "id": 44717772,
         "name": "CatOfFay",
         "screen_name": "catoffaycom"
-    },
-    {
-        "id": 45441631,
-        "name": "ПРИКОЛЫ | Смеяка",
-        "screen_name": "smeyaka"
     },
     {
         "id": 45745333,
@@ -378,11 +363,6 @@
         "id": 75338985,
         "name": "Я фотошоплю как бог",
         "screen_name": "ps_kak_kretin"
-    },
-    {
-        "id": 76746437,
-        "name": "Подслушано у программиста",
-        "screen_name": "secrets_of_programmist"
     },
     {
         "id": 77963997,
@@ -443,11 +423,6 @@
         "id": 130719945,
         "name": "В ПРЯМОМ СМЫСЛЕ",
         "screen_name": "bukvalno_pub"
-    },
-    {
-        "id": 131460484,
-        "name": "Бустер",
-        "screen_name": "lilbuster"
     },
     {
         "id": 132463798,
@@ -535,6 +510,11 @@
         "screen_name": "bot_statist"
     },
     {
+        "id": 149094324,
+        "name": "Комментатор от Бога",
+        "screen_name": "komment.broo"
+    },
+    {
         "id": 149500863,
         "name": "А ты знал?",
         "screen_name": "znall"
@@ -566,7 +546,7 @@
     },
     {
         "id": 152240036,
-        "name": "Замедленная съемка",
+        "name": "Замедлись и наслаждайся",
         "screen_name": "zamedlennaya"
     },
     {
@@ -628,6 +608,11 @@
         "id": 165394017,
         "name": "ну ты это не обижайся.",
         "screen_name": "trvmplde"
+    },
+    {
+        "id": 166127239,
+        "name": "Зачем это гуглили?",
+        "screen_name": "gyygle"
     },
     {
         "id": 167081580,
