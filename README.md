@@ -2,14 +2,14 @@
 Run main.py in root directory
 
 ## Lab 4
-### Spider for "пермь-светофор-магазин.рф"\
+### Spider for "пермь-светофор-магазин.рф"
 Terminal:
 1. cd Lab4\spiders
 2. scrapy runspider tl_spider.py
 
 Run main.py to save json
 
-### Spider for protected "www.regard.ru"\
+### Spider for protected "www.regard.ru"
 Terminal:
 1. cd Lab4\spiders
 2. scrapy runspider Experimental.py
