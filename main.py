@@ -20,7 +20,7 @@ cost = 100
 pprint(ParserTlPerm.choose_products_by_cost(cost))
 
 #Lab4
-#Comment.md
+#README.md
 mongo = MongoWork()
 mongo.save_to_Json(coll_name_available, 'Lab4\\items_from_mongoDB_spider.json')
 mongo.save_to_Json(coll_name_protected, 'Lab4\\items_from_mongoDB_spider_protected.json')
