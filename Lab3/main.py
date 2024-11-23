@@ -36,9 +36,12 @@ class MongoWork:
     def add(self, json_list, p_key, coll_name=''):
         collection = self.collection_by_name(coll_name)
 
-        for item in json_list:
-            if not collection.find_one({p_key: item[p_key]}):
-                collection.insert_one(item)
+        if type(json_list) is list:
+            for item in json_list:
+                if not collection.find_one({p_key: item[p_key]}):
+                    collection.insert_one(item)
+        elif not collection.find_one({p_key: json_list[p_key]}):
+            collection.insert_one(json_list)
 
     def is_empty(self, coll_name=''):
         collection = self.collection_by_name(coll_name)
@@ -49,3 +52,12 @@ class MongoWork:
         collection = self.collection_by_name(coll_name)
 
         collection.drop()
+
+    def save_to_Json(self, coll_name='', file_name=''):
+        collection = self.collection_by_name(coll_name)
+
+        found = collection.find().to_list()
+        restricted = ["_id"]
+        items = JsonWork.choose_not(found, restricted)
+
+        JsonWork.save(file_name, items)

@@ -1,0 +1,170 @@
+[
+    {
+        "id": 74729,
+        "name": "Внешний накопитель SSD 1Tb Kingston XS1000 (SXS1000/1000G)",
+        "info": "внешний SSD, 1000 Гб, USB 3.2 Gen2 Type-C, чтение: 1050 Мб/сек, запись: 1000 ",
+        "cost": 9910,
+        "status": "В наличии"
+    },
+    {
+        "id": 470396,
+        "name": "Внешний жёсткий диск 2Tb Toshiba Canvio Basics Black (HDTB520EK3AA/HDTB520YK3AA)",
+        "info": "внешний HDD, 2.5\", 2000 Гб, USB 3.2",
+        "cost": 8650,
+        "status": "В наличии"
+    },
+    {
+        "id": 396106,
+        "name": "Внешний жёсткий диск 4Tb Seagate Expansion Black (STKM4000400)",
+        "info": "внешний HDD, 2.5\", 4000 Гб, USB 3.0",
+        "cost": 12840,
+        "status": "В наличии"
+    },
+    {
+        "id": 364089,
+        "name": "Внешний накопитель SSD 1Tb Samsung T7 (MU-PC1T0T)",
+        "info": "внешний SSD, 1.8\", 1000 Гб, USB Type-C, чтение: 1050 Мб/сек, запись: 1000 ",
+        "cost": 14180,
+        "status": "В наличии"
+    },
+    {
+        "id": 458198,
+        "name": "Внешний накопитель SSD 1Tb Samsung T7 Shield (MU-PE1T0S)",
+        "info": "внешний SSD, 1.8\", 1000 Гб, USB 3.2 Gen2 Type-C, чтение: 1050 Мб/сек, запись: 1000 ",
+        "cost": 14790,
+        "status": "В наличии"
+    },
+    {
+        "id": 131934,
+        "name": "Внешний жёсткий диск 2Tb WD Elements Portable Black (WDBU6Y0020BBK)",
+        "info": null,
+        "cost": 8880,
+        "status": "В наличии"
+    },
+    {
+        "id": 8050,
+        "name": "Внешний накопитель SSD 1Tb Netac Z Slim (NT01ZSLIM-001T-32BK)",
+        "info": "внешний SSD, 1000 Гб, USB Type-C, чтение: 520 Мб/сек, запись: 480 ",
+        "cost": 7870,
+        "status": "В наличии"
+    },
+    {
+        "id": 396105,
+        "name": "Внешний жёсткий диск 2Tb Seagate Expansion Black (STKM2000400)",
+        "info": "внешний HDD, 2.5\", 2000 Гб, USB 3.0",
+        "cost": 8630,
+        "status": "В наличии"
+    },
+    {
+        "id": 480708,
+        "name": "Внешний накопитель SSD 4Tb Samsung T7 Shield (MU-PE4T0S)",
+        "info": null,
+        "cost": 41020,
+        "status": "В наличии"
+    },
+    {
+        "id": 266803,
+        "name": "Внешний накопитель SSD 500Gb Samsung T5 (MU-PA500B)",
+        "info": null,
+        "cost": 7740,
+        "status": "В наличии"
+    },
+    {
+        "id": 344104,
+        "name": "Внешний жёсткий диск 5Tb WD My Passport Black (WDBPKJ0050BBK)",
+        "info": "внешний HDD, 2.5\", 5000 Гб, USB 3.0",
+        "cost": 14910,
+        "status": "В наличии"
+    },
+    {
+        "id": 396108,
+        "name": "Внешний жёсткий диск 8Tb Seagate Expansion Black (STKP8000400)",
+        "info": "внешний HDD, 3.5\", 8000 Гб, USB 3.0",
+        "cost": 23980,
+        "status": "В наличии"
+    },
+    {
+        "id": 470394,
+        "name": "Внешний жёсткий диск 1Tb Toshiba Canvio Basics Black (HDTB510EK3AA)",
+        "info": "внешний HDD, 2.5\", 1000 Гб, USB 3.2",
+        "cost": 6840,
+        "status": "В наличии"
+    },
+    {
+        "id": 364092,
+        "name": "Внешний накопитель SSD 2Tb Samsung T7 (MU-PC2T0T)",
+        "info": null,
+        "cost": 23070,
+        "status": "В наличии"
+    },
+    {
+        "id": 344077,
+        "name": "Внешний жёсткий диск 2Tb WD My Passport Black (WDBYVG0020BBK)",
+        "info": "внешний HDD, 2.5\", 2000 Гб, USB 3.0",
+        "cost": 9330,
+        "status": "В наличии"
+    },
+    {
+        "id": 344072,
+        "name": "Внешний жёсткий диск 1Tb WD My Passport Black (WDBYVG0010BBK)",
+        "info": "внешний HDD, 2.5\", 1000 Гб, USB 3.0",
+        "cost": 7170,
+        "status": "В наличии"
+    },
+    {
+        "id": 7946,
+        "name": "Внешний накопитель SSD 2Tb Kingston XS2000 (SXS2000/2000G)",
+        "info": "внешний SSD, 2000 Гб, USB Type-C, чтение: 2000 Мб/сек, запись: 2000 ",
+        "cost": 18550,
+        "status": "В наличии"
+    },
+    {
+        "id": 470397,
+        "name": "Внешний жёсткий диск 4Tb Toshiba Canvio Basics Black (HDTB540EK3CA)",
+        "info": "внешний HDD, 2.5\", 4000 Гб, USB 3.2",
+        "cost": 13440,
+        "status": "В наличии"
+    },
+    {
+        "id": 449426,
+        "name": "Внешний жёсткий диск 5Tb WD My Passport Red (WDBPKJ0050BRD)",
+        "info": "внешний HDD, 2.5\", 5000 Гб, USB 3.2 Gen1",
+        "cost": 16620,
+        "status": "В наличии"
+    },
+    {
+        "id": 699692,
+        "name": "Внешний накопитель SSD 1Tb Kingston XS1000 (SXS1000R/1000G)",
+        "info": "внешний SSD, 1000 Гб, USB 3.2 Gen2 Type-C, чтение: 1050 Мб/сек, запись: 1000 ",
+        "cost": 9980,
+        "status": "В наличии"
+    },
+    {
+        "id": 7984,
+        "name": "Внешний накопитель SSD 1Tb SanDisk Extreme Portable V2 (SDSSDE61-1T00-G25)",
+        "info": "внешний SSD, 1.8\", 1000 Гб, USB 3.2 Gen2 Type-C, чтение: 1050 Мб/сек, запись: 1000 ",
+        "cost": 16430,
+        "status": "В наличии"
+    },
+    {
+        "id": 395390,
+        "name": "Внешний жёсткий диск 1Tb Seagate Expansion Black (STKM1000400)",
+        "info": "внешний HDD, 2.5\", 1000 Гб, USB 3.0",
+        "cost": 7170,
+        "status": "В наличии"
+    },
+    {
+        "id": 131808,
+        "name": "Внешний жёсткий диск 1Tb WD Elements Portable (WDBUZG0010BBK)",
+        "info": null,
+        "cost": 7890,
+        "status": "В наличии"
+    },
+    {
+        "id": 74726,
+        "name": "Внешний накопитель SSD 2Tb Kingston XS1000 (SXS1000/2000G)",
+        "info": "внешний SSD, 2000 Гб, USB 3.2 Gen2 Type-C, чтение: 1050 Мб/сек, запись: 1000 ",
+        "cost": 14360,
+        "status": "В наличии"
+    }
+]

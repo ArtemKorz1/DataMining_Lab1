@@ -163,7 +163,7 @@ class ParserTlPerm:
         collection = ParserTlPerm.mongo.collection_by_name()
         cost = float(threshold)
 
-        found = collection.find({'cost': {'$gte': 100.0}}).to_list()
+        found = collection.find({'cost': {'$gte': cost}}).to_list()
         restricted = ["_id"]
         items = JsonWork.choose_not(found, restricted)
 
