@@ -20,6 +20,10 @@ Run main.py to save json
 ## Lab 5
 <b>Spider is located in Lab4/spiders</b>
 1. docker run -p 8050:8050 scrapinghub/splash
-2. scrapy runspider quotes_spider.py
+2. cd Lab4\spiders
+3. scrapy runspider quotes_spider.py
 
 Run main.py to save json
+
+## Lab 6
+Run main.py in root directory

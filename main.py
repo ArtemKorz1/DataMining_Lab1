@@ -6,6 +6,7 @@ from Lab3.main import MongoWork
 from Lab4.spiders.tl_spider import coll_name as coll_name_available
 from Lab4.spiders.Experimental import coll_name as coll_name_protected
 from Lab4.spiders.quotes_spider import coll_name as coll_name_quotes
+from Lab6.main import get_mails_by_selenium
 
 #Lab1
 Requestor.get_vk_groups()
@@ -28,5 +29,8 @@ mongo.save_to_Json(coll_name_protected, 'Lab4\\items_from_mongoDB_spider_protect
 
 #Lab5
 #README.md
-#mongo = MongoWork()
+mongo = MongoWork()
 mongo.save_to_Json(coll_name_quotes, 'Lab5\\items_from_mongoDB_quotes_spider.json')
+
+#Lab6
+get_mails_by_selenium()

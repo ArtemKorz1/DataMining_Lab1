@@ -40,6 +40,19 @@ class MongoWork:
             for item in json_list:
                 if not collection.find_one({p_key: item[p_key]}):
                     collection.insert_one(item)
+        elif type(p_key) is list:
+            accept = True
+            ones = list(collection.find({p_key[0]: json_list[p_key[0]]}))
+            for one in ones:
+                isIdentical = True
+                for key in p_key:
+                    if key != '_id' and one[key] != json_list[key]:
+                        isIdentical = False
+                if isIdentical:
+                    accept = False
+                    break
+            if accept:
+                collection.insert_one(json_list)
         elif not collection.find_one({p_key: json_list[p_key]}):
             collection.insert_one(json_list)
 
