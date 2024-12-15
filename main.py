@@ -34,3 +34,6 @@ mongo.save_to_Json(coll_name_quotes, 'Lab5\\items_from_mongoDB_quotes_spider.jso
 
 #Lab6
 get_mails_by_selenium()
+
+#Lab7
+#README.md

@@ -27,3 +27,10 @@ Run main.py to save json
 
 ## Lab 6
 Run main.py in root directory
+
+## Lab 7
+Run: Terminal:
+1. Create application (e.g. React app): <b>npx create-react-app cypress-test</b>
+2. Goto: <b>cd E:\VS\cypress-test</b>
+3. Add cypress to project: <b>npm install cypress --save-dev</b>
+4. Run Editor: <b>npx cypress open</b>
