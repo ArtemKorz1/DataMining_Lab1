@@ -34,3 +34,6 @@ Run: Terminal:
 2. Goto: <b>cd E:\VS\cypress-test</b>
 3. Add cypress to project: <b>npm install cypress --save-dev</b>
 4. Run Editor: <b>npx cypress open</b>
+
+## Lab 8
+Run main.py in root directory

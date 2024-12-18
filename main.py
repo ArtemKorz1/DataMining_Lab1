@@ -8,7 +8,7 @@ from Lab4.spiders.Experimental import coll_name as coll_name_protected
 from Lab4.spiders.quotes_spider import coll_name as coll_name_quotes
 from Lab6.main import get_mails_by_selenium
 from Lab8.mail import get_mails_by_playwright
-from Lab8.main import get_screenshot_by_playwright, get_content, get_with_request
+from Lab8.main import get_screenshot_by_playwright, get_content, get_with_request, intersept
 
 #Lab1
 #Requestor.get_vk_groups()
@@ -43,7 +43,8 @@ from Lab8.main import get_screenshot_by_playwright, get_content, get_with_reques
 #Lab8
 #get_mails_by_playwright()
 #get_screenshot_by_playwright()
-get_content('locator')
-get_content('xpath')
-get_content('bs')
+#get_content('locator')
+#get_content('xpath')
+#get_content('bs')
 get_with_request()
+#intersept()

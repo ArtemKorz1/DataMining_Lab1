@@ -121,11 +121,20 @@ def get_with_request():
         list.pop(0)
         parsed = []
         numb = 0
-        while numb < 10:
+        max = 10
+        while numb < max:
             el = list[numb]
             try:
-                title = el.xpath(".//p[@class='CoreText-sc-1txzju1-0 MveHm']/text()")[1]
+                # skip channels among streams list
+                if el.xpath(".//div[@class='Layout-sc-1xcs6mc-0 offline_result-featured-videos--container']"):
+                    numb += 1
+                    max += 1
+                    continue
+                else:
+                    # try get title
+                    title = el.xpath(".//p[@class='CoreText-sc-1txzju1-0 MveHm']/text()")[1]
             except:
+                # can't get title => no element => click button to show more and scroll
                 page.locator("//button[@class='ScCoreButton-sc-ocjdkq-0 gjSLzh']").nth(0).click()
                 page.locator("//p[@class='CoreText-sc-1txzju1-0 MveHm']").last.wait_for()
                 page.locator("//div[@class='Layout-sc-1xcs6mc-0 ivrFkx']").nth(numb).scroll_into_view_if_needed()
@@ -138,7 +147,7 @@ def get_with_request():
             elem = {
                 'title': title,
                 'author': el.xpath(".//a[@class='ScCoreLink-sc-16kq0mq-0 jRnnHH tw-link']/text()")[0],
-                'category': el.xpath(".//a[@class='ScCoreLink-sc-16kq0mq-0 jRnnHH tw-link']/text()")[0],
+                'category': el.xpath(".//a[@class='ScCoreLink-sc-16kq0mq-0 jRnnHH tw-link']/text()")[1],
                 'viewers':
                     el.xpath(".//p[@class='CoreText-sc-1txzju1-0 MveHm']/text()")[0],
                 'ref': link +
@@ -151,4 +160,36 @@ def get_with_request():
 
         print(parsed)
         JsonWork.save(lab8_suffix + "with_request.json", parsed)
+        browser.close()
+
+
+def intercept_request(request):
+    print(f"intersepted request: {request}")
+    return request
+
+def intercept_response(response):
+    try:
+        _json = {'response': response, 'json': response.json()}
+        print(f"intersepted response: {_json}")
+    except:
+        print(f"intersepted response: {response}")
+
+    if response.request.resource_type == "xhr":
+        print(f"cookies: {response.headers.get('cookie')}")
+    return response
+
+def intersept():
+    with sync_playwright() as pw:
+        browser = pw.firefox.launch(headless=False)
+        page = browser.new_page()
+        page.goto('https://twitch.tv')
+        page.locator("//div[@class='Layout-sc-1xcs6mc-0 cVWYqz']").wait_for()
+        page.on("request", intercept_request)
+        page.on("response", intercept_response)
+
+        input = page.locator("//input[@class='ScInputBase-sc-vu7u7d-0 ScInput-sc-19xfhag-0 gNGlOQ gnCxBd InjectLayout-sc-1i43xsx-0 eRDdjS tw-input tw-input--large']")
+        input.wait_for()
+        input.type("league of legends", delay=0.2)
+        page.locator("//button[@class='ScCoreButton-sc-ocjdkq-0 gFUsAR tw-combo-input__button-icon tw-combo-input__button-icon--large']").click()
+
         browser.close()
